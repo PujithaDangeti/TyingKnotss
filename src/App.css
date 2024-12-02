@@ -1,0 +1,106 @@
+/* Global reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto Slab', serif; 
+  background-color: #d2e0fb; 
+}
+
+.main-body {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.v1 {
+  border-left: 3px solid teal;
+  height: 60px;
+
+}
+.v2 {
+  border-left: 3px solid rgb(21, 219, 219);
+  height: 60px;
+   
+}
+p.small {
+  line-height: 0.8;
+}
+
+p.big {
+  line-height: 1.8;
+}
+
+.navigation {
+  display: flex;
+  justify-content: right;/*space around*/
+  gap: 8px; 
+  margin-bottom: 15px;
+  
+  /*flex-direction:column/column-reverse*/
+
+}
+
+
+.navigation-right {
+  display: flex;
+  /* flex-direction: column; Stack buttons vertically */
+  /* align-items: flex-start; Align buttons to the left */
+  gap: 20px; 
+  margin-bottom: 30px;
+  padding : 20px;
+  position : relative;
+  left : 1200px; 
+}
+
+button {
+  background-color: #789DBC;
+  color: white;
+  border: none;
+  padding: 12px 30px;
+  border-radius: 25px; 
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #DEE5D4;
+}
+.Sign-Btn{
+  display: grid;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  gap: 30px; 
+  flex-wrap: wrap;
+
+}
+
+.main-image, .Image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(5, 83, 228, 0.89); 
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+  color: #000b58;
+  margin-top: 30px;
+  font-family: 'Georgia', serif; 
+}
+
+button {
+  border: 2px solid #52D3D8; 
+}
+button:focus {
+  outline: none;
+  border-color: #e4099b; 
+}
