@@ -1,0 +1,69 @@
+{
+  "Profiles": [
+    {
+      "name": "R.Rakesh",
+      "age": 24,
+      "gender": "Male",
+      "job": "Software",
+      "height": 6,
+      "yearly income": "90 crores",
+      "Zodiac Sign": "Sagittarius",
+      "id": "a9d7"
+    },
+    {
+      "name": "M.Rajesh",
+      "age": 29,
+      "job": "CA",
+      "height": 6.3,
+      "yearly income": "30 lakh",
+      "Zodiac Sign": "Cancer",
+      "id": "4284"
+    },
+    {
+      "name": "M.Ramesh",
+      "age": 26,
+      "job": "Civil Engineer",
+      "height": 6.3,
+      "yearly income": "20 lakh",
+      "Zodiac Sign": " Gemini",
+      "id": "a079"
+    },
+    {
+      "name": "M.PusphaValli",
+      "age": 23,
+      "job": "IAS",
+      "height": 5.3,
+      "yearly income": "20 lakh",
+      "Zodiac Sign": " Leo",
+      "id": "1af1"
+    },
+    {
+      "name": "P.Kumari",
+      "age": 25,
+      "job": "Civil Engineer",
+      "height": 5.7,
+      "yearly income": "25 lakh",
+      "Zodiac Sign": "Scorpio",
+      "id": "2c1c"
+    },
+    {
+      "name": "P.SiriValli",
+      "age": 24,
+      "job": "Accounts Manager",
+      "height": 5.7,
+      "yearly income": "23 lakh",
+      "Zodiac Sign": "Aquarius",
+      "id": "257c"
+    },
+    {
+      "id": "a9d7",
+      "name": "R.Rakesh",
+      "age": 24,
+      "gender": "Male",
+      "job": "Software",
+      "height": 6,
+      "yearly income": "50 lakh",
+      "Zodiac Sign": "Sagittarius"
+    }
+  ]
+}
