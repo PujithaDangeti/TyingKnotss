@@ -6,7 +6,7 @@ import viteLogo from '/vite.svg'
 
 import AppRouters from './Routers/AppRouters';
 import MainLayout from './Layouts/MainLayout'
-import Main from './assets/Components/Main';
+import Main from './Components/Main';
 
 
 
